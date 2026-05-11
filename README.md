@@ -58,4 +58,4 @@ POST / Predict
 
 👨‍💻 Author
 
-Kishore P | Full Stack Developer 
+Kishore P | Full Stack Developer | AI/ML
